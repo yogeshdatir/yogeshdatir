@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###👋 Hi, I’m Yogesh
+### 👋 Hi, I’m Yogesh
 
 - 👀 I’m a self taught Frontend developer and I can perform some magic spells with Nodejs too
 - 🔭 I’m currently working on React
