@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m Yogesh
+- 👀 I’m a self taught Frontend developer and I can perform some magic spells with Nodejs too
+- 🔭 I’m currently working on React
+- 🌱 I’m currently improving my Reactjs skills with TypeScript, React Patterns such as custom hooks, compound components and other libraries such as Redux, emotion, chakra-UI (and the MERN stack in my spare time) 
+- Fun fact: I write posts on [Medium](https://medium.com/@yogdat)
+- 📫 You can reach me at yogdat@gmail.com
